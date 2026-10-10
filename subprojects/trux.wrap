@@ -1,0 +1,7 @@
+[wrap-git]
+url = https://github.com/Jlesster/trux.git
+revision = main
+depth = 1
+
+[provide]
+trux = trux_dep
